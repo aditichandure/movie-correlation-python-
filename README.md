@@ -1,5 +1,5 @@
 # Movie Correlation Analysis and EDA using Python
-This repository provides a movie correlation analysis and exploratory data analysis(EDA) using Python. This analysis aims to explore the relationships and correlation 
+This repository provides a movie correlation analysis and exploratory data analysis(EDA) using Python. This analysis aims to explore the relationships and correlation.
 
 
 ## Dataset
@@ -38,8 +38,3 @@ The analysis includes the following steps:
 ## Results
 
 The Notebook provides visualizations and correlation coefficients to help us understand the impact of factors like budget and votes on movie revenue.
-
-
-## Contact
-
-For any questions or inquiries, please contact [Aditi Chandure] at [](aditichandure@gmail.com).
